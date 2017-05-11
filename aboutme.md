@@ -5,7 +5,7 @@ journey towards containerization, cloud adoption, PaaS, DevOps, and microservice
 As a Solution Architect  Chak has experience working with numerous customers. 
 
 
-He has spoken at DevNation Federal / Redhat summit and conducted roadshows in many cities.
+He has spoken/presented at DevNation Federal / Redhat summit and conducted roadshows in many cities.
 He is a active youtuber and also meetup organizer
 
 Social Media:
