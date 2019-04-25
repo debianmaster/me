@@ -1,9 +1,11 @@
 ```sh
-Chak is a Solutions Architect with Red Hat Inc and Cloud Native Compute Foundation Ambassador.   
-He enables Red Hat customers with adoption of open source solutions in their   
-journey towards containerization, cloud adoption, PaaS, DevOps, and microservices.   
-As a Solution Architect  Chak has experience working with numerous customers. 
+Chak is a Head Architect working with BiqMind and a Cloud Native Compute Foundation Ambassador.
+Previously worked as Sr Solutions Architect with Red Hat Inc and few others.
 
+He enables customers with adoption of open source solutions in their   
+journey towards containerization, cloud adoption, PaaS, DevOps, and microservices.   
+
+As a Solution Architect  Chak has experience working with numerous customers. 
 
 He has spoken/presented at DevNation Federal / Redhat summit and conducted roadshows in many cities.
 He is a active youtuber and also meetup organizer  
