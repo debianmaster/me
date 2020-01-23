@@ -1,3 +1,4 @@
+```
 Core skills
     Kubernetes
     DevSecOps
@@ -65,5 +66,5 @@ Others
     Git
     solidity
     Asterisk
-
+```
 
